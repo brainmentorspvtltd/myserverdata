@@ -1,0 +1,7 @@
+{
+    "products":[
+        {"id":1001, "name":"IPhone","price":90000, "url":"https://pngimg.com/uploads/iphone_11/iphone_11_PNG36.png"},
+        {"id":1002, "name":"Samsung","price":40000, "url":"https://www.clipartkey.com/mpngs/m/98-988698_hand-holding-samsung-transparent-samsung-mobile-phone-png.png"}
+
+    ]
+}
